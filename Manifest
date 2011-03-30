@@ -1,5 +1,6 @@
+Manifest
 README
 Rakefile
 TODO
 lib/unit_mailer.rb
-Manifest
+unit_mailer.gemspec
